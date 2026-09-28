@@ -1,8 +1,8 @@
-# 🛒 TOTVS - SmartPOS
+# TOTVS - SmartPOS
 
 O **SmartPOS** é uma solução de Ponto de Venda Frontend ágil, responsiva e moderna construída **100% com Vanilla JavaScript** e **Web Components** nativos, sem a dependência de frameworks externos como React, Vue ou Angular.
 
-## 🚀 Arquitetura e Decisões Técnicas
+## Arquitetura e Decisões Técnicas
 
 Para atender padrão do desafio, o projeto foi desenhado sob os seguintes pilares:
 
@@ -21,16 +21,14 @@ Para rodar a suíte de testes:
 npm run test
 \`\`\`
 
-## 📦 Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 1. Clone o repositório ou descompacte o arquivo.
 2. Certifique-se de ter o Node.js instalado.
 3. Instale as dependências:
    npm install
-   \`\`\`
 4. Rode o servidor de desenvolvimento:
    npm run dev
-   \`\`\`
 5. Acesse no navegador a rota apontada (geralmente `http://localhost:5173`).
 
 ---
